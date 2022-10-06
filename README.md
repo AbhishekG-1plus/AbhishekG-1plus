@@ -1,16 +1,19 @@
 ![Header](./abhishek.png)
 <h1 align="center">Hi, I'm Abhishek Gadekar</h1>
-<h3 align="center">A developer with interests in web-dev, blockchain, web3.0, research & finance</h3>
+<h3 align="center">A developer with interests in web-dev, blockchain, web3.0, research & finance.</h3>
 <img align="right" alt="Coding" width ="40%" src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
 
-- 🔭 I’m currently working on [⭐️ hacktoberfest ⭐️](https://github.com/AbhishekG-1plus/automatic-feedback-extension)
+-  I’m currently working on [⭐️ hacktoberfest ⭐️](https://github.com/AbhishekG-1plus/automatic-feedback-extension)
 
-- 🌱 I’m currently learning **Web3.0 , Machine Learning, Quantitative           Finance.**
+-  I’m currently learning 
+   - Web3.0  
+   - Machine Learning
+   - Quantitative Finance
 
-- 👨‍💻 All of my projects are available [here](https://github.com/AbhishekG-1plus)
+-  All of my projects are available [:HERE:](https://github.com/AbhishekG-1plus)
 
-- 📫 Reach me @ **abhishekgadekar1224@gmail.com**
+-  Reach me @ **abhishekgadekar1224@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
