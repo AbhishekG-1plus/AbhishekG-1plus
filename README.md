@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width ="40%" src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
 
--  I’m currently hacking on [⭐️ hacktoberfest ⭐️](https://github.com/AbhishekG-1plus/automatic-feedback-extension)
+-  Currently hacking on [⭐️ hacktoberfest ⭐️](https://github.com/AbhishekG-1plus/automatic-feedback-extension)
 
 -  I’m currently learning 
    - Development
