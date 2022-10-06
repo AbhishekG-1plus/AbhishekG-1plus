@@ -3,7 +3,7 @@
 
 <h3  align="center">A developer with interests in Web-Dev, Blockchain, Web3.0, Research & Finance</h3>
 
-<img  align="right" alt="Coding"  width ="40%"  src="https://media.tenor.com/74l5y1hUdtwAAAAi/pokemon.gif">
+<img  align="right" alt="Coding"  width ="60%"  src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
   
   <h4>🌱Currently Working :</h4>
