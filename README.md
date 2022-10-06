@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi, I'm Abhishek Gadekar</h1>
+<h1 align="center">Hi, I'm Explorer :) </h1>
 <h3 align="center">A developer with interests in web-dev, blockchain, web3.0, research & finance.</h3>
 <img align="right" alt="Coding" width ="40%" src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
