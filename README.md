@@ -21,7 +21,7 @@
 
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekg-1plus&show_icons=true&locale=en" alt="abhishekg-1plus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg-1plus&show_icons=true&locale=en" alt="abhishekg-1plus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekg-1plus&" alt="abhishekg-1plus" /></p>
 
