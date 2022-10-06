@@ -7,6 +7,7 @@
 -  I’m currently working on [⭐️ hacktoberfest ⭐️](https://github.com/AbhishekG-1plus/automatic-feedback-extension)
 
 -  I’m currently learning 
+   - Development
    - Web3.0  
    - Machine Learning
    - Quantitative Finance
