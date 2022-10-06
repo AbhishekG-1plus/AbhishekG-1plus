@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web3.0 , Machine Learning, Quantitative           Finance.**
 
-- 👨‍💻 All of my projects are available here: [https://github.com/AbhishekG-1plus](https://github.com/AbhishekG-1plus)
+- 👨‍💻 All of my projects are available [here](https://github.com/AbhishekG-1plus)
 
 - 📫 Reach me @ **abhishekgadekar1224@gmail.com**
 
