@@ -12,7 +12,7 @@
    - Machine Learning
    - Quantitative Finance
 
--  All of my projects are available [:HERE:](https://github.com/AbhishekG-1plus)
+-  All of my projects are available [here🔗](https://github.com/AbhishekG-1plus)
 
 -  Reach me @ **abhishekgadekar1224@gmail.com**
 
