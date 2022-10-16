@@ -3,9 +3,7 @@
 <h3 align="center">A developer with interests in web-dev, blockchain, web3.0, research & finance.</h3>
 <img align="right" alt="Coding" width ="40%" src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
-
--  Currently hacking on [ hacktoberfest 🎃](https://github.com/AbhishekG-1plus/automatic-feedback-extension)
-
+     
 -  I’m currently learning 
    - Development
    - Web3.0  
@@ -29,6 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekg-1plus&show_icons=true&locale=en" alt="abhishekg-1plus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekg-1plus&" alt="abhishekg-1plus" /></p>
+ 
+<p align="center">BADGES HACTOBERFEST 2022 🎃🎃</p>
 
-
-
+[![@abhi1224's Holopin board](https://holopin.me/abhi1224)](https://holopin.io/@abhi1224)
