@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Exploring ^-^ </h1>
 <img align="right" alt="Coding" width ="40%" src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
      
