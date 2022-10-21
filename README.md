@@ -9,7 +9,7 @@
    - Quantitative Finance
 
 
--  Reach me @ **abhishekgadekar1224@gmail.com** for any exciting collabrations or projects.
+-  Reach me at **abhishekgadekar1224@gmail.com** for any exciting collabrations or projects.
 
 
 
