@@ -8,9 +8,8 @@
    - Machine Learning
    - Quantitative Finance
 
--  All of my projects are available [here🔗](https://github.com/AbhishekG-1plus)
 
--  Reach me @ **abhishekgadekar1224@gmail.com**
+-  Reach me @ **abhishekgadekar1224@gmail.com** for any exciting collabrations or projects.
 
 
 
