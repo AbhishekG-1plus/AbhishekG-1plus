@@ -3,9 +3,8 @@
 
      
 -  I’m currently learning & working projects on:
-   - Development
-   - Web3.0  
-   - Machine Learning
+   - Deep Learning (NLP & attention based GPT architecture)
+   - Software Development
    - Quantitative Finance
 
 
