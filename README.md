@@ -8,7 +8,7 @@
    - Quantitative Finance
 
 
--  Reach me at **abhishekgadekar1224@gmail.com** for any exciting collabrations or projects.
+-  Reach me at **gadekar.1@iitj.ac.in** or **abhishekgadekar1224@gmail.com** for any exciting collaborations or projects.
 
 
 
