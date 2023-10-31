@@ -3,7 +3,8 @@
 
      
 -  I’m currently learning & working projects on:
-   - Deep Learning (NLP & attention based GPT architecture)
+   - Deep Learning (NLP & attention-based GPT architecture)
+   - Computer Vision (Face Recognition & Decision Making for Autonomous Vehicles using Liquid Neural Networks)
    - Software Development
    - Quantitative Finance
 
