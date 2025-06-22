@@ -2,14 +2,14 @@
 <img align="right" alt="Coding" width ="40%" src="http://clipart-library.com/images_k/pikachu-gif-transparent/pikachu-gif-transparent-21.png">
 
      
--  I’m currently learning & working projects on:
-   - Deep Learning (NLP & attention-based GPT architecture)
-   - Computer Vision (Face Recognition & Decision Making for Autonomous Vehicles using Liquid Neural Networks)
-   - Software Development
-   - Quantitative Finance
+-  I’m Abhishek Gadekar:
+   - Currently MTS @LambdaTest, Alumnus @IIT-Jodhpur
+   - Love building MCP, AI Agents, backend, & everything.
+   - Ex-Research Intern @University of Calgary, Canada
 
 
--  Reach me at **gadekar.1@iitj.ac.in** or **abhishekgadekar1224@gmail.com** for any exciting collaborations or projects.
+
+-  Reach me at **abhishekgadekar1224@gmail.com** for any exciting collaborations or projects.
 
 
 
