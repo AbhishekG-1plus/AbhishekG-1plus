@@ -3,8 +3,8 @@
 
      
 -  I’m Abhishek Gadekar:
-   - Currently MTS @LambdaTest, Alumnus @IIT-Jodhpur
    - Love building MCP, AI Agents, backend, & everything.
+   - Currently MTS @LambdaTest, Alumnus @IIT-Jodhpur
    - Ex-Research Intern @University of Calgary, Canada
 
 
